@@ -1,4 +1,5 @@
 # ChuckNorrisApp
+Tutorial followed:
 https://medium.com/@ssaurel/develop-a-chuck-norris-facts-android-app-with-kotlin-d0d7b14e98dd
 
 JSON Web Services calls in Kotlin and how to use OkHttp 3 library
